@@ -13,10 +13,10 @@ There are 2 folders:
 1. Create a terminal
 
 2. Activate the virtual environment 
-`.venv\Scripts\activate`
+`> .venv\Scripts\activate`
 
 3. Launch CounterFit
-`counterfit`
+`> counterfit`
 
 4. Navigate to http://localhost:5000/
 
@@ -34,19 +34,19 @@ There are 2 folders:
 1. Create a new terminal
 
 2. Activate the virtual environment
-`.venv\Scripts\activate`
+`> .venv\Scripts\activate`
 
 3. Run the python app
-`py app.py`
+`> py app.py`
 
 ### Open a new a new VSCode window for the Server (Easier to navigate)
 1. Create a new terminal
 
 2. Activate the virtual environment
-`.venv\Scripts\activate`
+`> .venv\Scripts\activate`
 
 3. Run the python app
-`py app.py`
+`> py app.py`
 
 ## What it should look like now
 Client Terminal View
