@@ -1,5 +1,5 @@
 # counterfit-lightsensor-led
-Light sensor with LED signal (sent through MQTT) using CounterFit - Fake IoT Hardware
+Light sensor with LED signal (sent through MQTT) using CounterFit - Fake IoT Hardware | Python 3.9.13
 
 Refer to [Microsoft IoT For Beginners](https://github.com/microsoft/IoT-For-Beginners/tree/main/1-getting-started/lessons/4-connect-internet)
 
