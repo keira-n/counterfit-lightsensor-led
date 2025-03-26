@@ -10,7 +10,7 @@ CounterFitConnection.init('127.0.0.1', 5000)
 light_sensor = GroveLightSensor(0)
 led = GroveLed(5)
 
-id = 'ca4c074a-9541-404c-967e-f263588f0301'
+id = '<ID>' # Pick your own ID
 
 client_telemetry_topic = id + '/telemetry'
 server_command_topic = id + '/commands' 
