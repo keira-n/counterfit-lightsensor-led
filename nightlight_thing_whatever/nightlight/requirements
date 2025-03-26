@@ -1,0 +1,11 @@
+Package                Version
+---------------------- ----------
+CounterFit             0.1.4.dev9
+counterfit-connection  0.1.0.dev5
+counterfit-shims-grove 0.1.4.dev5
+paho-mqtt              2.1.0
+pip                    25.0.1
+python-engineio        4.11.2
+python-socketio        5.12.1
+setuptools             58.1.0
+Werkzeug               2.2.2
