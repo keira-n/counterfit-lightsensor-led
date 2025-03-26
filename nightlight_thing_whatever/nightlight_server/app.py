@@ -3,7 +3,7 @@ import time
 
 import paho.mqtt.client as mqtt
 
-id = 'ca4c074a-9541-404c-967e-f263588f0301'
+id = '<ID>'
 
 client_telemetry_topic = id + '/telemetry'
 server_command_topic = id + '/commands'
