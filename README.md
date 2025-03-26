@@ -3,13 +3,13 @@ Light sensor with LED signal (sent through MQTT) using CounterFit - Fake IoT Har
 
 Refer to [Microsoft IoT For Beginners](https://github.com/microsoft/IoT-For-Beginners/tree/main/1-getting-started/lessons/4-connect-internet)
 
-### TL;DR
+# TL;DR
 There are 2 folders:
 - [Client](https://github.com/keira-n/counterfit-lightsensor-led/tree/main/nightlight_thing_whatever/nightlight) is for sending telemetry from the IoT device (CounterFit) to the MQTT broker and receiving commands.
 - [Server](https://github.com/keira-n/counterfit-lightsensor-led/tree/main/nightlight_thing_whatever/nightlight_server) is for receiving telemetry from the MQTT broker and sending commands back.
 
 ## Running order: CounterFit > Client = Server
-# CounterFit
+### CounterFit
 1. Create a terminal
 
 2. Activate the virtual environment 
@@ -29,7 +29,7 @@ There are 2 folders:
 > Change the colour if you want to :>
 ![image](https://github.com/user-attachments/assets/e1ebc4ba-821c-46c6-b34d-7a9814958747)
 
-# Client (nightlight)
+### Client (nightlight)
 1. Create a new terminal
 
 2. Activate the virtual environment
@@ -38,7 +38,7 @@ There are 2 folders:
 3. Run the python app
 `py app.py`
 
-# Open a new a new VSCode window for the Server (Easier to navigate)
+### Open a new a new VSCode window for the Server (Easier to navigate)
 1. Create a new terminal
 
 2. Activate the virtual environment
