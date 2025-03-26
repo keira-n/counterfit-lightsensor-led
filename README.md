@@ -27,6 +27,7 @@ There are 2 folders:
 
 7. Create an LED actuator (pin 5)
 > Change the colour if you want to :>
+
 ![image](https://github.com/user-attachments/assets/e1ebc4ba-821c-46c6-b34d-7a9814958747)
 
 ### Client (nightlight)
