@@ -3,7 +3,7 @@ import time
 
 import paho.mqtt.client as mqtt
 
-id = '<ID>'
+id = '<ID>' # Has to be the same ID as the one in the nightlight app.py
 
 client_telemetry_topic = id + '/telemetry'
 server_command_topic = id + '/commands'
